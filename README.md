@@ -13,7 +13,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 <p align="center">
-  <img alt="Projeto DevLinks" src="(https://github.com/YumiiLee/my-project/blob/main/DevLinks%20•%20Projeto%20Discover%20(Community).jpg)">
+  <img alt="Projeto DevLinks" src="(https://github.com/YumiiLee/my-project/blob/main/devlinks.jpg)">
 </p>
 
 <br>
